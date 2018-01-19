@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--自定义波形动画相关属性-->
+    <declare-styleable name="WaveAnimationView">
+        <!--图片-->
+        <attr name="logoImage" format="reference"/>
+        <!--波形频率-->
+        <attr name="frequency" format="float"/>
+    </declare-styleable>
+</resources>
